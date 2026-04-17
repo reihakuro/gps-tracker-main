@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/reihakuro/gps-tracker.git
+[submodule "website"]
+	path = website
+	url = https://github.com/reihakuro/gps-tracker-web.git
