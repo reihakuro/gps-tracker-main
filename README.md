@@ -1,4 +1,6 @@
 # GPS TRACKER
+[![Firmware](https://img.shields.io/badge/Firmware-View%20Code-green?style=for-the-badge&logo=github)](https://github.com/reihakuro/gps-tracker)
+[![Dashboard](https://img.shields.io/badge/Dashboard-View%20Code-orange?style=for-the-badge&logo=github)](https://github.com/reihakuro/gps-tracker-web)
 
 A complete IoT ecosystem designed for real-time location tracking and safety.
 
